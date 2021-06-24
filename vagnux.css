@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'JetBrainsMonoBold';
+  src: url('fonts/JetBrainsMono-Bold.woff2.woff2') format('woff2'); 
+}
+@font-face {
+    font-family: 'JetBrainsMonoBoldItalic';
+    src: url('fonts/JetBrainsMono-BoldItalic.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoExtraBold';
+    src: url('fonts/JetBrainsMono-ExtraBold.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoExtraBoldItalic';
+    src: url('fonts/JetBrainsMono-ExtraBoldItalic.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoExtraLight';
+    src: url('fonts/JetBrainsMono-ExtraLight.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoItalic';
+    src: url('fonts/JetBrainsMono-Italic.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoLight';
+    src: url('fonts/JetBrainsMono-Light.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoLightItalic';
+    src: url('fonts/JetBrainsMono-LightItalic.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoMedium';
+    src: url('fonts/JetBrainsMono-Medium.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoMediumItalic';
+    src: url('fonts/JetBrainsMono-MediumItalic.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoRegular';
+    src: url('fonts/JetBrainsMono-Regular.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoThin';
+    src: url('fonts/JetBrainsMono-Thin.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-family: 'JetBrainsMonoThinItalic';
+    src: url('fonts/JetBrainsMono-ThinItalic.woff2') format('woff2'); 
+  }
+
+  body {
+      background-color: #242424;
+      font-family: JetBrainsMonoRegular;
+      color: rgb(51, 139, 0);
+      font-size: 1em;
+  }
